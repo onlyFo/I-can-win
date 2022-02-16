@@ -1,2 +1,5 @@
 Hello Piter
 Hi John!
+How are you?
+I'm fine, thanks. And you?
+Oh I'm pretty well!
